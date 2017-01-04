@@ -1,0 +1,18 @@
+h2.intro {
+  font-family: monospace;
+}
+
+p.intro {
+  font-size: 1.5em;
+}
+
+img.intro {
+  display: block;
+  /*border: 2px dotted grey;*/
+  width: 50%;
+  margin: auto;
+  }
+
+  span {
+    font-size: 5em;
+  }
