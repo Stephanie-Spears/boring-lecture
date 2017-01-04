@@ -13,6 +13,14 @@ img.intro {
   margin: auto;
   }
 
-  span {
-    font-size: 5em;
-  }
+span {
+  font-size: 5em;
+}
+
+.start {
+  border: 2px solid red;
+}
+
+.test {
+  border: 4px dashed green;
+}
